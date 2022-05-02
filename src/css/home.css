@@ -12,12 +12,12 @@ li:before {
     content: "• "   /* dos pontinhos */
 }
 p{
-    padding: 0.2em 1.0em;
+    padding: 0.2em 1.0em;   /*linha*/
 }
 li {
     padding: 0.1em 1.0em;
 }
 .img-dino{
-border-radius:1em;
+border-radius:1em;                 /*borda */
 box-shadow: 5px 5px 5px #00000031;  
 }
